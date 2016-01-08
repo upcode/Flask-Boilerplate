@@ -1,32 +1,9 @@
-Font-End Folder Strcture and project starter layout
+FLASK-Boilerplate 
 
-MY FOLDER STRUCTURE 
+INCLUDES: 
+folders and directories set up 
+bootstrap starter template with CDN or 
+bootstrap starter template if bootstrap is downloaded locally 
+starter template for model, routes/server and seed python files 
+media queries in base.css
 
-Project_Name/
-	static/
-		css/
-			base/
-				background.png
-			images/
-				background.png
-				header-img.png
-			base.css
-			index.css
-		libraries/
-			bootstrap/
-			jquery/
-		js/
-		data/
-		some-data.json
-		some-data.csv 
-		some-data.txt
- 		some-data.xml
-		templates/
-
-
-		upcode-base 
-
-
-		CSS media queries base 
-
-		HTML 5 Base 
